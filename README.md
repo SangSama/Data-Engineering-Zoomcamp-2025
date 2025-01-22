@@ -1,7 +1,8 @@
 # Data-Engineering-Zoomcamp-2025
 Data Engineering Zoomcamp 2025 by DataTalksClub
 
-Module list: https://github.com/DataTalksClub/data-engineering-zoomcamp?tab=readme-ov-file#syllabus
+Module list: https://github.com/DataTalksClub/data-engineering-zoomcamp?tab=readme-ov-file#syllabus <br />
+Course's latest module: https://courses.datatalks.club/de-zoomcamp-2025/
 - Module 1: Containerization and Infrastructure as Code
 - Module 2: Workflow Orchestration
 - Workshop 1: Data Ingestion
