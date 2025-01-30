@@ -17,6 +17,7 @@ Public repo: https://github.com/DataTalksClub/data-engineering-zoomcamp <br />
 Registration: https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD <br />
 Materials specific to the cohort: https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/cohorts/2025 <br />
 Watch Data Engineering Zoomcamp 2025 pre-course Q&A: https://www.youtube.com/live/DPnAOu2csYA?si=lujQEUZGx0ptMq7l <br />
+DataTalks.Club courses: https://courses.datatalks.club/ <br />
 
 *( change: orchestration (Mage AI -> Kestra) and extract (dlt). )*
 ![image](https://github.com/user-attachments/assets/038b35f6-5dcc-4b3d-9432-16272b2fadfa)
