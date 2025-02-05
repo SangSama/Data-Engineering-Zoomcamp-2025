@@ -1,3 +1,10 @@
+# Module 1: Containerization and Infrastructure as Code
+- Introduction to GCP
+- Docker and Docker Compose
+- Running PostgreSQL with Docker
+- Infrastructure setup with Terraform
+- Homework
+
 # Introduction
 
 * [![](https://markdown-videos-api.jorgenkh.no/youtube/AtRhA-NfS24)](https://www.youtube.com/watch?v=AtRhA-NfS24&list=PL3MmuxUbc_hKihpnNQ9qtTmWYy26bPrSb&index=3)
