@@ -1,3 +1,8 @@
+# Module 2: Workflow Orchestration
+- Data Lakes and Workflow Orchestration
+- Workflow orchestration with Kestra
+- Homework
+
 # Workflow Orchestration
 
 Welcome to Module 2 of the Data Engineering Zoomcamp! This week, we’ll dive into workflow orchestration using [Kestra](https://go.kestra.io/de-zoomcamp/github). 
