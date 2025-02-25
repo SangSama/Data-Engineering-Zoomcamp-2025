@@ -11,7 +11,7 @@ Data: https://github.com/DataTalksClub/nyc-tlc-data/releases <br />
 - Module 3: Data Warehouse
 - Module 4: Analytics engineering
 - Module 5: Batch processing
-- Module 6: Streamingthay đổi
+- Module 6: Streaming
 - Graduation Project
 
 Official site: https://dezoomcamp.streamlit.app/ <br />
